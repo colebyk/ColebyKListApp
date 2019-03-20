@@ -21,6 +21,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/download"
-        tools:srcCompat="@drawable/download" />
+        app:srcCompat="@drawable/peach"
+        tools:srcCompat="@drawable/peach" />
 </android.support.constraint.ConstraintLayout>
